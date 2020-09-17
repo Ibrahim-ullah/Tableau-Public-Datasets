@@ -6,4 +6,4 @@ The aim to create this repository is that if someone wants to use the create the
 
 ## The Mughals
 
-[](The Mughals/vizgif.gif)
+[Viz can be seen from here](The Mughals/vizgif.gif)
