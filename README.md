@@ -8,4 +8,4 @@ The aim to create this repository is that if someone wants to use the create the
 
 [Tableau Public link](https://public.tableau.com/profile/ibrahim.ullah#!/vizhome/SankeyMinimalTemplatebyDataEmbassy_15995055639270/SankeyChart)
 
-![](The Mughals/vizgif.gif)
+![](The%20Mughals/vizgif.gif)
